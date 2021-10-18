@@ -29,3 +29,7 @@
   <img src="https://camo.githubusercontent.com/13a4ffd69c3eee667515dbcc013b03158b43353978ae5c90c04b4ba87a839dcd/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f7673636f64655f69636f6e5f3133303038342e706e67" width="50px" height="50px" data-canonical-src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" style="max-width: 100%;">
   
  </p>
+
+<br/>
+
+<img src="https://camo.githubusercontent.com/ca8cd4c532651e94f80cfc126415c43d2fef62d3948c05ad66d662b7544fa61d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d657372612d706f6c6174266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=inceselim&amp;layout=compact&amp;langs_count=10" style="max-width: 100%;">
